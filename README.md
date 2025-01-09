@@ -1,0 +1,12 @@
+# CLI (command Line Interface) commands
+-Tells your computer what to do
+- Commands
+-ls --> lists out the command of the current directory(folder)
+-cd -->changes the directory that your in
+- .. --> goes up one directory
+- / --> separates navigating multiple directories
+- mkdir --> creates a new directory
+- touch --> creates a new file
+- mv and rm --> moves a directory and rm is removing a directory (use the explorer bar instead if not using often) (might remove to many directories/files)
+- code [directory name] --> opens VS code at the specified director
+- . --> refers to the current directory
